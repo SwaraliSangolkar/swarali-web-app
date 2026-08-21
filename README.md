@@ -57,7 +57,7 @@ Swarali Sangolkar
 ## Screenshots
 
 ### App Output
-![App Output](flaskapp_output.jpg)
+![App Output](Appoutput.jpg)
 
 ### Terminal Output
-![Terminal](terminalss.png)
+![Terminal](Terminal.png)
